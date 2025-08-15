@@ -1,0 +1,5 @@
+invoke (0,0): task
+  gives: param1,param2,task:1
+var 1 (2,0);
+result (4,0): task
+  takes: result1,result2,task:1
